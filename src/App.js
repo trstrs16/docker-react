@@ -8,7 +8,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
             Learn React, Now, changed yes again!
-            <h3>Hit me twice/2</h3>
+            <h3>Click me twice/2</h3>
         </header>
       </div>
     );
